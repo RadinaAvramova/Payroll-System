@@ -1,22 +1,28 @@
-# Java Billing System
+# Payroll-Management-System
 
-Billing System for a restaurant written in Java. Includes the following functionalities:
+A simple Payroll Management System where you can 
 
-* Menu management
-    * Create, manage and delete menus
-* Order management
-    * GUI with tables representations
-    * Table / order status
-    * Table / order logs
-    * Filtering functionalities
-    * File-handling to import and export orders
-* Account management
-    * Login system
-    * Content display based on user rights (incl. Admin account)
-    * Activity logs
+Add
+Update
+Delete
+Search 
 
-#### Login:
-On first time login, a root user 'admin' with no default password will be generated. Access the system using that user name.
+Employees from the System
 
-#### Reset system:
-In order to reset the system to its initial status without any content (user, menubook, order log etc.), delete ALL files in the RestaurantBillingSystem\res folder.
+Add
+Update
+Delete 
+
+Salary details
+
+Add
+Update
+Delete 
+
+Leave details 
+
+Generate and Print Pay Slips
+
+Database file is also included
+
+GUI is done using Java Swing Framework
